@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DigiBatua-Eureka-Server/DigiBatua-Eureka-Server.iml" filepath="$PROJECT_DIR$/DigiBatua-Eureka-Server/DigiBatua-Eureka-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DigiBatua-Gateway/DigiBatua-Gateway.iml" filepath="$PROJECT_DIR$/DigiBatua-Gateway/DigiBatua-Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DigiBatua-Microservices.iml" filepath="$PROJECT_DIR$/DigiBatua-Microservices.iml" />
+    </modules>
+  </component>
+</project>
